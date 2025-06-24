@@ -11,7 +11,7 @@ const BTECHp: React.FC = () => {
       technologies: ['HTML', 'CSS', 'JavaScript', 'React'],
       level: 'Advanced',
       levelColor: 'hwb(120 41% 30%)',
-      link: '/projects/btech/Webdevelopment'  
+      link: '/btech/Webdevelopment'  
 
     },
     {
