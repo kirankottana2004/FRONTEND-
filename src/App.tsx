@@ -16,7 +16,7 @@ import MCAp from './pages/mca/MCAp';
 import BTechp from './pages/btech/BTECHp'; 
 
 // mca Project Detail Pages
-import Webdevelopment from './pages/mca/Webdevelopment';
+import Webdevelopment from '../pages/mca/Webdevelopment';
 import Datascience from './pages/mca/Datascience';
 import Mobileappdevelopment from './pages/mca/Mobileappdevelopment';
 import DevopsDeployment from './pages/mca/DevopsDeployment';
